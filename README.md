@@ -2,10 +2,6 @@
 
 A collection of my LeetCode submissions, automatically synced and updated via [LeetCode Sync](https://github.com).
 
-## 📊 Progress Statistics
-*   **Total Problems Solved:** ![LeetCode Stats](https://shields.io[alokzef])
-*   **Ranking:** ![LeetCode Rank](https://shields.io[alokzef])
-
 ## 📂 Repository Structure
 The solutions are organized automatically by the sync script:
 - Each folder contains the solution and a brief description of the problem.
