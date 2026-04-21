@@ -3,13 +3,13 @@
 A collection of my LeetCode submissions, automatically synced and updated via [LeetCode Sync](https://github.com).
 
 ## 📊 Progress Statistics
-*   **Total Problems Solved:** ![LeetCode Stats](https://shields.io[YOUR_USERNAME])
-*   **Ranking:** ![LeetCode Rank](https://shields.io[YOUR_USERNAME])
+*   **Total Problems Solved:** ![LeetCode Stats](https://shields.io[alokzef])
+*   **Ranking:** ![LeetCode Rank](https://shields.io[alokzef])
 
 ## 📂 Repository Structure
 The solutions are organized automatically by the sync script:
 - Each folder contains the solution and a brief description of the problem.
-- Solutions are written in [Language, e.g., Python / Java / C++].
+- Solutions are written in C++.
 
 ## 🛠️ How it Works
 This repository uses **GitHub Actions** to fetch my latest "Accepted" submissions from LeetCode every week. 
