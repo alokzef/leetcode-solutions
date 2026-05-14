@@ -1,6 +1,6 @@
 # LeetCode Solutions 🚀
 
-A collection of my LeetCode submissions, automatically synced and updated via [LeetCode Synchronizer](https://github.com/dos-m0nk3y/LeetCode-Synchronizer).
+A collection of my LeetCode submissions, automatically synced and updated via [LeetCode Sync](https://github.com/joshcai/leetcode-sync).
 
 ## 📂 Repository Structure
 The solutions are organized automatically by the sync script:
@@ -11,7 +11,7 @@ The solutions are organized automatically by the sync script:
 This repository uses **GitHub Actions** to fetch my latest "Accepted" submissions from LeetCode every week. 
 
 - **Sync frequency:** Weekly (Saturdays at 8:00 AM)
-- **Automation tool:** [dos-m0nk3y/LeetCode-Synchronizer](https://github.com/dos-m0nk3y/LeetCode-Synchronizer)
+- **Automation tool:** [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)
 
 ---
 *Follow my journey as I improve my problem-solving skills!*
