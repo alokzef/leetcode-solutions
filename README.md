@@ -1,17 +1,16 @@
 # LeetCode Solutions 🚀
 
-A collection of my LeetCode submissions, automatically synced and updated via [LeetCode Sync](https://github.com/joshcai/leetcode-sync).
+A collection of my LeetCode submissions, synced and updated via [LeetCode Sync](https://github.com/joshcai/leetcode-sync).
 
 ## 📂 Repository Structure
-The solutions are organized automatically by the sync script:
+The solutions are organized by the sync script:
 - Each folder contains the solution and a brief description of the problem.
 - Solutions are written in C++.
 
-## 🛠️ How it Works
-This repository uses **GitHub Actions** to fetch my latest "Accepted" submissions from LeetCode every week. 
-
-- **Sync frequency:** Weekly (Saturdays at 8:00 AM)
-- **Automation tool:** [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)
+## 🛠️ Update Workflow
+I update this repository manually to reflect my current progress:
+- **Trigger:** Updated after solving new problems or optimizing existing solutions.
+- **Process:** Solutions are thoroughly tested on LeetCode before being pushed here.
 
 ---
 *Follow my journey as I improve my problem-solving skills!*
